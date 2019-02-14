@@ -1,0 +1,118 @@
+*{
+  /* margin: 0;
+  padding: 0; */
+  box-sizing: border-box;
+}
+html{
+  /* margin: 0;
+  padding: 0; */
+}
+html, body{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: url("images/pew waves.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  color: #e72441;
+  background-color: red;
+  width: 400px;
+  margin-left: 500px;
+}
+.img1{
+  width: 250px;
+  height: 250px;
+  border-right: 5px solid #e72441;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 270px;
+}
+
+.img2{
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 740px;
+}
+
+.img3{
+  width: 170px;
+  height: 170px;
+  position: absolute;
+  margin-top: 160px;
+  margin-left: 550px;
+}
+/* Big Ol Memes */
+.img4{
+  width: 100px;
+  height: 255px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: 115px;
+  margin-left: 170px;
+}
+
+.img4alt{
+  transform: rotate(-15deg);
+  width: 180px;
+  height: 200px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: -100px;
+  margin-left: 20px;
+}
+
+.img5{
+  transform: rotate(-90deg);
+  width: 100px;
+  height: 255px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: -55px;
+  margin-left: 343px;
+}
+
+.img5alt{
+  transform: rotate(15deg);
+  width: 180px;
+  height: 200px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: -10px;
+}
+
+.img6{
+  transform: rotate(90deg);
+  width: 100px;
+  height: 255px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 343px;
+}
+
+.img2alt{
+  transform: rotate(-15deg);
+  width: 180px;
+  height: 200px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: 270px;
+  margin-left: 1100px;
+}
+
+.img2alt2{
+  transform: rotate(15deg);
+  width: 180px;
+  height: 200px;
+  border: 5px solid #e72441;
+  position: absolute;
+  margin-top: -80px;
+  margin-left: 1100px;
+}
