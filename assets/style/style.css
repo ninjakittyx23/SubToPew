@@ -14,7 +14,7 @@ html, body{
 .body{
   background: url("images/pew waves.jpg") no-repeat center center fixed;
   background-size: cover;
-  border: 10px solid green;
+  /* border: 10px solid green; */
 }
 h1{
   font-family: 'Indie Flower', cursive;
@@ -119,11 +119,11 @@ h1{
 }
 
 .img {
-  z-index: 100;
+  /* z-index: 100; */
 }
 
 #disqus_thread{
-  z-index: 1000;
-  border: 10px solid purple;
+  /* z-index: 1000; */
+  /* border: 10px solid purple; */
   margin-top: 100vh !important;
 }
