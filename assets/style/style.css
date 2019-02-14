@@ -12,6 +12,9 @@ html, body{
   padding: 0;
 }
 .body{
+  /* border: 10px solid green; */
+}
+body{
   background: url("images/pew waves.jpg") no-repeat center center fixed;
   background-size: cover;
   /* border: 10px solid green; */
