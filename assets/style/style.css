@@ -11,7 +11,7 @@ html, body{
   margin: 0;
   padding: 0;
 }
-body{
+.body{
   background: url("images/pew waves.jpg") no-repeat center center fixed;
   background-size: cover;
 }
@@ -115,4 +115,8 @@ h1{
   position: absolute;
   margin-top: -80px;
   margin-left: 1100px;
+}
+
+#disqus_thread{
+  z-index: 1000;
 }
